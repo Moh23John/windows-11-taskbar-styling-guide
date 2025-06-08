@@ -14,6 +14,7 @@ I have made a few changes, with the main focus of changing the accents to white.
 ![Screenshot](Screenshot1.png)
 ![Screenshot](Screenshot2.png)
 </details>
+<details>
 <summary>Content to import (click to expand)</summary>
 
 ```json
@@ -83,7 +84,7 @@ I have made a few changes, with the main focus of changing the accents to white.
 </details>
 
 <details>
-<summary>JSONC File with helpful comments to edit the theme to your liking</summary>
+<summary>JSONC File with helpful comments to edit the theme to your liking (Click to expand) </summary>
 ```jsonc
 {
   "controlStyles[0].target": "Rectangle#BackgroundFill", // Taskbar background
