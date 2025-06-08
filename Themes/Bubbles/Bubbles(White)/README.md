@@ -16,6 +16,7 @@ I have made a few changes, with the main focus of changing the accents to white.
 ## Screenshots (Preview)
 ![Screenshot](Screenshot3.png)
 ![Screenshot](Screenshot4.png)
+![Screenshot](Screenshot5.png)
 ![Screenshot](Screenshot6.png)
 <details>
 <summary>Content to import (click to expand)</summary>
