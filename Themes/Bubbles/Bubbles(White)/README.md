@@ -9,11 +9,10 @@ I have made a few changes, with the main focus of changing the accents to white.
 * Go to the "Advanced" tab.
 * Copy the content below to the text box under "Mod settings" and click "Save".
 
-<details>
-<summary>Screenshots (Taskbar settings)</summary>
+## Screenshots (Taskbar Settings)
+
 ![Screenshot](Screenshot1.png)
 ![Screenshot](Screenshot2.png)
-</details>
 <details>
 <summary>Content to import (click to expand)</summary>
 
