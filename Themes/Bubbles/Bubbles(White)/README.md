@@ -1,7 +1,7 @@
-# Bubbles theme (White Accents) for Windows 11 Taskbar Styler
+# Bubbles theme (White Accents, Minimalistic) for Windows 11 Taskbar Styler
 
 This is a modified version of the original Bubbles theme made by [m417z](https://github.com/m417z). Modified by [Moh23John](https://github.com/Moh23John)
-I have made a few changes, with the main focus of changing the accents to white. The theme is meant for certain taskbar settings. Since labels, the search box as a whole are not meant to be used here, I have excluded the settings which change them. I have given a screenshot of taskbar settings to copy down below.
+I have made a few changes, with the main focus of changing the accents to white. The theme is meant for certain taskbar settings. Since labels, the search box as a whole are not meant to be used here, I have excluded the code which changes them. I have given a screenshot of taskbar settings to copy down below. I have also included a JSONC file, which has comments which tell you what (almost) each line of code does. This helps you customize the taskbar if you like, and you can also use the information from the JSONC here to customize the original Bubbles theme. 
 
 ## Installation
 
@@ -13,6 +13,12 @@ I have made a few changes, with the main focus of changing the accents to white.
 
 ![Screenshot](Screenshot1.png)
 ![Screenshot](Screenshot2.png)
+## Screenshots (Preview)
+![Screenshot](Screenshot3.png)
+![Screenshot](Screenshot4.png)
+![Screenshot](Screenshot5.png)
+![Screenshot](Screenshot6.png)
+![Screenshot](Screenshot7.png)
 <details>
 <summary>Content to import (click to expand)</summary>
 
@@ -149,3 +155,6 @@ I have made a few changes, with the main focus of changing the accents to white.
 }
 ``` 
 </details>
+
+
+[def]: Screenshot4.png
