@@ -89,7 +89,7 @@ I have made a few changes, with the main focus of changing the accents to white.
 
 <details>
 <summary>JSONC File with helpful comments to edit the theme to your liking (Click to expand) </summary>
-```
+``` json
 {
   "controlStyles[0].target": "Rectangle#BackgroundFill", // Taskbar background
   "controlStyles[0].styles[0]": "Fill=#1b1b19", // Color of the whole taskbar background
